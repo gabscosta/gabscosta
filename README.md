@@ -1,6 +1,6 @@
 ### Olá! E sou o Gabriel Costa 👋
 
- 🌱 Estudando Html/Css, JavaScrit, ReactJs, React Native
+ 🌱 Estudando Html/Css, Javascript, ReactJs, React Native
 
 <div align="">
   <a href="https://github.com/gabscosta">
