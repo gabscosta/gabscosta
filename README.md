@@ -1,4 +1,4 @@
-### Olá! E sou o Gabriel Costa 👋
+### Olá! Eu sou o Gabriel Costa 👋
 
  🌱 Estudando Html/Css, Javascript, ReactJs, React Native
 
